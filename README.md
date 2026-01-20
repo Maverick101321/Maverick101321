@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-* 🔭 I’m currently focused on **building CodeVault**, a project aimed at [Briefly describe CodeVault or remove this phrase if the project speaks for itself]. The repository is already pinned!
+* 🔭 I’m currently focused on **building CodeVault**, a project aimed at helping devs save and locate snippets. The repository is already pinned!
 * 💡 I’m currently expanding my knowledge in **LangGraph**, **Apache Airflow**, and **Apache Spark**.
 * 🎓 I’m actively working towards achieving the **Databricks Certified Data Engineer Associate** and **Certified Kubernetes Administrator (CKA)** certifications.
 * 📫 How to reach me: **choudharyvarun4u@gmail.com**
